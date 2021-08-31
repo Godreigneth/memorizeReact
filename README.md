@@ -1,4 +1,4 @@
-# MemorizeReact App
+# MemorizeReact App.
 
 ## A Memory Challenge Game
 
